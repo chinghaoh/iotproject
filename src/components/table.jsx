@@ -1,11 +1,11 @@
 import React, {Component} from "react";
 import Navbar from "./navbar";
-class Pagelayout extends Component{
+class Table extends Component{
     render() {
         return(
-            <Navbar></Navbar>
+            <h1>Table</h1>
         )
     }
 }
 
-export default Pagelayout;
+export default Table;
