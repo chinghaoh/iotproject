@@ -3,11 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Googlemaps from "./components/googlemaps";
+import Pagelayout from "./components/pagelayout";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Googlemaps />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

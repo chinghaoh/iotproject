@@ -1,11 +1,11 @@
 import React, {Component} from "react";
 import Navbar from "./navbar";
-class Pagelayout extends Component{
+class Graph extends Component{
     render() {
         return(
-            <Navbar></Navbar>
+            <h1>Graph</h1>
         )
     }
 }
 
-export default Pagelayout;
+export default Graph;
