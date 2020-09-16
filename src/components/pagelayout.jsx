@@ -4,7 +4,7 @@ class Pagelayout extends Component{
     render() {
         return(
             <div>
-                <p>"test</p>
+                <p>"test 2</p>
             </div>
         )
     }
