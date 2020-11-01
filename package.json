@@ -6,9 +6,12 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.20.0",
+    "chart.js": "^2.9.3",
     "mobx": "^5.15.6",
     "ol": "^6.4.3",
     "react": "^16.13.1",
+    "react-chartjs-2": "^2.10.0",
     "react-dom": "^16.13.1",
     "react-openlayers": "^0.3.0",
     "react-router-dom": "^5.2.0",
@@ -36,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-export-default-from": "^7.10.4",
     "@material-ui/core": "^4.11.0"
   }
 }
